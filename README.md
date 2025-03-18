@@ -40,31 +40,29 @@ _6.Registration_
 page allows user to register themselves on burganic website so that they can place orders.
 Information required for
 registration are:
-First name
-Last name
-Email
-Address
-Phone Number
-Password
+First name,
+Last name,
+Email,
+Address,
+Phone Number,
+Password.
 
 _7.Checkout_
 In checkout page All items U want to buy for eating .It's just like cash counter to us. And all required details fill compulsory to You Fill All Details.
-In Checkout Required
-Name
-Username
-Email Address
-Address
-Zip
-Payment Done
+In Checkout Required:
+Name,
+Username,
+Email Address,
+Address,
+Zip,
+Payment Done.
 
 _8.Feedback__
 Feedback page allows user to feedback themselves on burganic website so that they can share beautiful memories.
-
-You Fill All Details
-Like
-Name
-Email Address
-Thought
+You Fill All Details Like:
+Name,
+Email Address,
+Thought.
 
 _9.Contact Us__
-page provides the exact location of our restaurant through Google maps so that in case of location of our restaurant the customers can reach out to us in an easy way and also provides contact details like email id, contact no and restaurant address to get in touch with us .
+page provides the exact location of our restaurant through Google maps so that in case of location of our restaurant the customers can reach out to us in an easy way and also provides contact details like: email id, contact no, and restaurant address to get in touch with us .
