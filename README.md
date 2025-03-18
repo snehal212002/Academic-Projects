@@ -19,6 +19,7 @@ Data Management:
 2.Local Storage
 
 **Modules**
+
 __1.HomePage_
 This module welcomes the user and display its various module and allows user to access them.the homepage also specify the specialty and current served offers by the restaurant.Home page has show us explorer ,
 Then shows food stuff which is just introduced and even which has discount. It displays safety measures of our restaurant,
