@@ -3,22 +3,26 @@ Building a great online presence is essential to the success of your restaurant.
 
 This project, Burganic, is a comprehensive solution for creating an inspiring and functional restaurant website. It combines modern web technologies to deliver a seamless user experience, dynamic content, and efficient data management.
 
-**Technologies Used**
+**Technologies Used**:-
 
 Frontend:
 1.HTML
+
 2.CSS
+
 3.JavaScript
 
 Backend:
 1.PHP
+
 2.MySQL
 
 Data Management:
 1.Google Sheets
+
 2.Local Storage
 
-**Modules**
+**Modules**:-
 
 __1.HomePage_
 This module welcomes the user and display its various module and allows user to access them.the homepage also specify the specialty and current served offers by the restaurant.Home page has show us explorer ,
