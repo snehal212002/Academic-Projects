@@ -6,7 +6,6 @@ This project, Burganic, is a comprehensive solution for creating an inspiring an
 **Technologies Used**:-
 
 Frontend:
-
 1.HTML
 2.CSS
 3.JavaScript
@@ -16,7 +15,6 @@ Backend:
 2.MySQL
 
 Data Management:
-
 1.Google Sheets
 2.Local Storage
 
